@@ -1,26 +1,25 @@
-# 염근철 20
+# 곽상열    
 
 ## 🥸 인적사항
 
-- name : 염근철
-- github : [GeunSam2](https://github.com/GeunSam2)
-- age : 미상
-- blog : [모두의 근삼이](https://ykarma1996.tistory.com/)
-- 회사 : 당근마켓
-- 부서 : SRE
-- LinkedIn : [링크드인](https://www.linkedin.com/in/geunsam2/)
-- Resume : [레주메](https://geunsam2.github.io/)
+- name : 곽상열 
+- github : [gradykwak](https://github.com/gradykwak)
+- age : mz의 끝자락....
+- blog : [내가 좋아하는 블로그](https://blog.naver.com/ojh919)
+- 회사 : KT
+- 부서 : AI사업본부
+- 오늘의 기분 : 업무를 잠시 멀리해서 기분 매우 좋음 (걱정마요! 내일의 내가 야근할테니까요.)
 
 ## 🥕 좋아하는 것
 
-- 개발
-- 부동산 투자
-- 비디오 게임
+- 휴가
+- 여행
+- 잉여활동
 
-## 🐿 아무말
+## 🐿 좋아하는 것을 넣어볼게요!
 
 ![profile](https://avatars.githubusercontent.com/u/41275199?v=4)
-> 이건 제 아이콘이에요!
+> 제가 좋아하는 사진을 넣어봅니다.
 
 Argo Workflows 오픈소스의 컨트리뷰터로 활동하고 있어요.
 
@@ -35,11 +34,11 @@ Argo Workflows 오픈소스의 컨트리뷰터로 활동하고 있어요.
 ![ShellScript](https://img.shields.io/badge/Shell_Script-6E6B6A?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ```python
+
 import you
 
 you.today('happy!')
 ```
-
 ---
 
 ## 마크다운 작성에 대한 팁이 필요하다면?
